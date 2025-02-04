@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tharani3012
-- 🌱 I’m currently learning Power Bi| Python | SQL
+- 🌱 Proficiency in Power Bi| Python | SQL
 - 📫 How to reach me: sreetharanilatha30@gmail.com
 - ⚡ Fun fact: I love Data and Designing
 
